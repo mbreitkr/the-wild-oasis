@@ -18,6 +18,7 @@ const MobileHeading = styled.h1`
   text-align: center;
   line-height: 1.4;
   font-size: 2rem;
+  word-break: auto-phrase;
 `;
 
 const MobileText = styled.p`

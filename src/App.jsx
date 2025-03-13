@@ -7,7 +7,7 @@ import AppLayout from "./ui/AppLayout";
 import Dashboard from "./pages/Dashboard";
 import Bookings from "./pages/Bookings";
 import Cabins from "./pages/Cabins";
-import Users from "./pages/Users";
+// import Users from "./pages/Users";
 import Settings from "./pages/Settings";
 import Account from "./pages/Account";
 import Login from "./pages/Login";
